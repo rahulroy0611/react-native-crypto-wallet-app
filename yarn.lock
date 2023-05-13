@@ -1198,10 +1198,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-firebase/database/-/database-10.2.0.tgz#bc6dd0cfd1184039227f6cbcb8fa3b49e830d1b8"
   integrity sha512-Bjl6qWj4pxlCZK0iR1DuZa/d8SYFFhUNNvddUD/Q6wzP+n61lOUhegStXeA1HH7hJ7jSsGI/MIqn58GJLHEwBA==
 
-"@react-native-firebase/dynamic-links@^10.2.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/dynamic-links/-/dynamic-links-10.2.0.tgz#e5dd7aec214a20a03cc998a05fdabd9a39e48024"
-  integrity sha512-1twB3mZ5rOvLWBIYhDZlaDGBCyDbAxpIjiH6YEbjGV4gthk8mPuJM9fSWimZ+QI9+VXDZ3kM07PAIdQxm0GiBA==
+"@react-native-firebase/dynamic-links@^10.8.1":
+  version "10.8.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/dynamic-links/-/dynamic-links-10.8.1.tgz#cee7142f59da314c69787e751d70ab724acba6a5"
+  integrity sha512-9kIXYqJeVYKaquTeOiqw6OzKs630KBWUAtw1LC27XDYAuwQdVD/+92x9Ka0qV3vvIEH4YdXb2B2TC4yUb1wBVQ==
 
 "@react-navigation/bottom-tabs@^5.11.2":
   version "5.11.2"
